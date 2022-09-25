@@ -85,7 +85,7 @@ Install:
 
 Use it:
 -------
-1. `./maxi -kmf**` or `**./maxi -kmsgeif**`
+1. `./maxi -kmf` or `./maxi -kmsgeif`
 3. The output is already in the clipoboard. If you want to post it in [manjaro forum](https://forum.manjaro.org/) you only have to create the post, and press `[Ctrl-v]`
 4. You may also have a look at [Understand the boot process](https://forum.manjaro.org/t/howto-understand-efi-boot-process-with-gpt-via-grub-to-manjaro/99740)
 
